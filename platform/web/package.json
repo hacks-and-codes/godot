@@ -22,11 +22,16 @@
   "license": "MIT",
   "devDependencies": {
     "@html-eslint/eslint-plugin": "^0.15.0",
-    "@html-eslint/parser": "^0.15.0",
+    "@html-eslint/parser": "^0.19.0",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.23.4",
+
+    "eslint-plugin-import": "^2.25.0",
     "jsdoc": "^3.6.11"
+
+    "eslint-plugin-import": "^2.25.0",
+    "jsdoc": "^3.6.11"
+
   },
   "dependencies": {
     "eslint-plugin-html": "^7.1.0"
